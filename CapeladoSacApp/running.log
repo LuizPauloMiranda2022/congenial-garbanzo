@@ -1,0 +1,3 @@
+20:39:20.479 377  [main] %PARSER_ERROR[Level] org.example.ConversordeMedidas - Testando método InchToCm
+20:44:15.912 164  [main] %PARSER_ERROR[Level] com.sun.tools.javac.Main - Apresentando menu de opções de conversão
+20:44:21.357 5609 [main] %PARSER_ERROR[Level] com.sun.tools.javac.Main - Apresentando menu de opções de conversão
